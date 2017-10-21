@@ -1,0 +1,6 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.DTO\bin\Debug\PizzaMenu.DTO.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.DTO\bin\Debug\PizzaMenu.DTO.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.DTO\obj\Debug\PizzaMenu.DTO.csproj.CoreCompileInputs.cache

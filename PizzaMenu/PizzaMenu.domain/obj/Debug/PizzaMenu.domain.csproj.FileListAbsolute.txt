@@ -1,0 +1,13 @@
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.domain.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.domain.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\obj\Debug\PizzaMenu.domain.csprojResolveAssemblyReference.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\obj\Debug\PizzaMenu.domain.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\obj\Debug\PizzaMenu.domain.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.Data.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.DTO.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.Data.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.DTO.pdb
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\obj\Debug\PizzaMenu.domain.csproj.CoreCompileInputs.cache
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\EntityFramework.dll
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\PizzaMenu.Data.dll.config
+C:\Users\Reis\Documents\The Tech Academy\C# Course\Lesson 12 - Application Structure\Tech-Academy-C-Sharp-Advanced-Pizza-Menu\PizzaMenu\PizzaMenu.domain\bin\Debug\EntityFramework.xml
